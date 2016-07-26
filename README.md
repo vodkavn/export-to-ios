@@ -12,3 +12,15 @@ The script works by duplicating the selected layer (or layergroup) to a new docu
 	- Mac: **/Applications/Adobe Photoshop.../Presets/Scripts/**
 	- PC 64bit: **C:\Program Files\Adobe\Adobe Photoshop... (64 Bit)\Presets\Scripts\**
 	- PC 32bit: **C:\Program Files\Adobe\Adobe Photoshop...\Presets\Scripts\**
+
+
+## Version Explanation
+The normal version is unchanged from its origin (Uncorked Studios).
+
+The extended version was customized with configuration screen and some tweaks to improve export time.
+
+Feel free to use and fix any bugs in this script.
+
+
+## Licence
+Licensed under the MIT license
